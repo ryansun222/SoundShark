@@ -1,4 +1,4 @@
-import { config } from '../deps.ts'
+import { config } from '../../deps.ts'
 const { DATA_API_KEY, APP_ID } = config();
 const BASE_URI = `https://us-west-2.aws.data.mongodb-api.com/app/data-hjvqz/endpoint/data/v1`;
 
